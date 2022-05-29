@@ -1,0 +1,30 @@
+﻿{
+  "L18N": {
+    "GoBackButton": "Geh Zurück",
+    "AppLaunchingTitle": "Starten ",
+    "LaunchPadTitle": "Startrampe",
+    "SettingsTitle": "Einstellungen",
+    "LoginTitle": "Konto",
+    "CheckUpdateTitle": "Aktualisierung überprüfen",
+    "FdlCodesTitle": "FDL Cheat Codes",
+    "KisDbTitle": "KIS Wissensbasis",
+    "CancelButton": "Absagen",
+    "OKButton": "OK",
+    "SaveButton": "Speichern",
+    "SignInButton": "Einloggen",
+    "SignOutButton": "Abmelden",
+    "SearchButton": "Suche",
+    "CheckUpdateButton": "Auf Updates prüfen",
+    "ToggleSelectButton": "Auswahl umschalten",
+    "UpdateFdlButton": "Download/Update",
+    "UserIdLabel": "Nutzername :",
+    "PasswordLabel": "PIN or Passwort :",
+    "AppEntryTitle": "Application Entry",
+    "AppEntryNameLabel": "Name :",
+    "AppEntryPathLabel": "Weg :",
+    "MemoryLabel": "Speicher",
+    "OptionsLabel": "Optionen",
+    "ThemeLabel": "Thema",
+    "LoginFailed": "Fehler bei der Anmeldung"
+  }
+}
