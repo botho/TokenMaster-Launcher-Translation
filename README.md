@@ -12,21 +12,14 @@ Sample ***Resources.fr-FR.json*** :
     {
       "L18N": {
         "GoBackButton": "Retour",
-        "AppLaunchingName": "Application",
-        "AppLaunchingTitle": "Chargement",
-        "LaunchPadName": "Tableau de bord",
+        "AppLaunchingTitle": "Chargement ",
         "LaunchPadTitle": "Tableau de bord",
         "LaunchPadNote": "Un problèmes, une question ou un commentaire ? Contacter",
-        "SettingsName": "Paramètres",
         "SettingsTitle": "Paramètres",
-        "LoginName": "Connexion",
         "LoginTitle": "Connexion",
         "LoginNote1": "",
-        "CheckUpdateName": "Mise à jour",
         "CheckUpdateTitle": "Mise à jour",
-        "FdlCodesName": "FDL Cheat Codes",
         "FdlCodesTitle": "FDL Cheat Codes",
-        "KisDbName": "Nom KIS",
         "KisDbTitle": "Base de connaissances KIS",
         "CancelButton": "Annuler",
         "OKButton": "Valider",
@@ -48,4 +41,5 @@ Sample ***Resources.fr-FR.json*** :
         "LoginFailed": "Echec de la connexion"
       }
     }
+
 
