@@ -1,3 +1,4 @@
+
 # TokenMaster-Launcher-Translation
 
 This repository aims to contribute to the **TokenMaster Launcher Pro v5.x translations**.
@@ -42,4 +43,37 @@ Sample ***Resources.fr-FR.json*** :
       }
     }
 
+From original EN file ***Resources.json*** : 
 
+    {
+      "L18N": {
+        "GoBackButton": "Go Back",
+        "AppLaunchingTitle": "Launching ",
+        "LaunchPadTitle": "Launch Pad",
+        "LaunchPadNote": "Problems, questions or comments? Contact",
+        "SettingsTitle": "Settings",
+        "LoginTitle": "Account Login",
+        "LoginNote1": "",
+        "CheckUpdateTitle": "Check Update",
+        "FdlCodesTitle": "FDL Cheat Codes",
+        "KisDbTitle": "KIS Knowledge Base",
+        "CancelButton": "Cancel",
+        "OKButton": "OK",
+        "SaveButton": "Save",
+        "SignInButton": "Sign In",
+        "SignOutButton": "Sign Out",
+        "SearchButton": "Search",
+        "CheckUpdateButton": "Check for Updates",
+        "ToggleSelectButton": "Toggle Select",
+        "UpdateFdlButton": "Download/Update",
+        "UserIdLabel": "Email :",
+        "PasswordLabel": "PIN or Password :",
+        "AppEntryTitle": "Application Entry",
+        "AppEntryNameLabel": "Name :",
+        "AppEntryPathLabel": "Path :",
+        "MemoryLabel": "Memory",
+        "OptionsLabel": "Options",
+        "ThemeLabel": "Theme",
+        "LoginFailed": "Login Failed"
+      }
+    }
